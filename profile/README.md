@@ -16,3 +16,4 @@
 * https://www.califix.cl/
 * https://www.segurolisto.cl/
 * https://www.portalhaus.app/
+* https://www.eatnova.cl/
